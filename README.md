@@ -8,7 +8,7 @@
 
 ## Live Demo
 
-You can view the live demo of this portfolio website on Netlify:
+You can view the live demo of this portfolio website on Vercel:
 <br>
 Vercel: [Portfolio Website](https://kishan-portfolio-ten.vercel.app/)
 
